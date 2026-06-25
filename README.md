@@ -235,9 +235,9 @@ No cloud credentials are required for this deployment. No secrets are stored in 
 
 | Resource | URL |
 |----------|-----|
-| 🌐 Live API | *(to be added after deployment)* |
+| 🌐 Live API | https://queue-storm-w6bo.onrender.com |
 | 📁 GitHub Repo | https://github.com/sisayeedcse/queue-storm |
-| 📋 Swagger Docs | `<live-url>/docs` |
+| 📋 Swagger Docs | https://queue-storm-w6bo.onrender.com/docs |
 
 ---
 
